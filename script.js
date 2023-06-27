@@ -1,5 +1,5 @@
 let img = document.querySelector('img')
-const audio = new Audio('batiman');
+const audio = new Audio('batiman.mp3');
 
 
 function troca(){
